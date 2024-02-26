@@ -1,0 +1,82 @@
+[
+  {
+    "category": "Electronics",
+    "description": "Smartphone with advanced features",
+    "id": 1,
+    "image": "https://example.com/image1.jpg",
+    "price": 799.99,
+    "title": "Smartphone X"
+  },
+  {
+    "category": "Clothing",
+    "description": "Comfortable cotton t-shirt",
+    "id": 2,
+    "image": "https://example.com/image2.jpg",
+    "price": 19.99,
+    "title": "Basic T-Shirt"
+  },
+  {
+    "category": "Home & Kitchen",
+    "description": "Stainless steel kitchen knife set",
+    "id": 3,
+    "image": "https://example.com/image3.jpg",
+    "price": 49.99,
+    "title": "Knife Set"
+  },
+  {
+    "category": "Electronics",
+    "description": "Wireless Bluetooth earphones",
+    "id": 4,
+    "image": "https://example.com/image4.jpg",
+    "price": 59.99,
+    "title": "Bluetooth Earphones"
+  },
+  {
+    "category": "Books",
+    "description": "Bestselling novel by Author X",
+    "id": 5,
+    "image": "https://example.com/image5.jpg",
+    "price": 12.99,
+    "title": "Novel X"
+  },
+  {
+    "category": "Sports & Outdoors",
+    "description": "High-quality camping tent",
+    "id": 6,
+    "image": "https://example.com/image6.jpg",
+    "price": 149.99,
+    "title": "Camping Tent"
+  },
+  {
+    "category": "Beauty & Personal Care",
+    "description": "Natural skincare product",
+    "id": 7,
+    "image": "https://example.com/image7.jpg",
+    "price": 29.99,
+    "title": "Skincare Cream"
+  },
+  {
+    "category": "Toys & Games",
+    "description": "Educational toy for toddlers",
+    "id": 8,
+    "image": "https://example.com/image8.jpg",
+    "price": 24.99,
+    "title": "Toddler Toy"
+  },
+  {
+    "category": "Home & Kitchen",
+    "description": "Stainless steel water bottle",
+    "id": 9,
+    "image": "https://example.com/image9.jpg",
+    "price": 14.99,
+    "title": "Water Bottle"
+  },
+  {
+    "category": "Electronics",
+    "description": "High-definition smart TV",
+    "id": 10,
+    "image": "https://example.com/image10.jpg",
+    "price": 899.99,
+    "title": "Smart TV"
+  }
+]
